@@ -1,0 +1,6 @@
+@recetBac_HostAddress = http://localhost:5239
+
+GET {{recetBac_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
