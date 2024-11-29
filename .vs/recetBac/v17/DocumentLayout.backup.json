@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\recetBac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\controllers\\melscontrollerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\controllers\\melscontrollerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\services\\nutritionixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\services\\nutritionixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\models\\nutritionixnutrientsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\models\\nutritionixnutrientsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\controllers\\nutritionixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\controllers\\nutritionixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\controllers\\nutritionixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\controllers\\nutritionixcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\controllers\\melscontrollerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\controllers\\melscontrollerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\recetbac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\recetbac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,44 +67,20 @@
       "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\migrations\\20241128162051_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\models\\nutritionixnutrientsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\models\\nutritionixnutrientsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\models\\nutritionixsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\models\\nutritionixsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\services\\nutritionixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\services\\nutritionixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\models\\nutritionixnutrientsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\models\\nutritionixnutrientsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|c:\\recetbac\\recetbac\\recetbac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5CD28AE-05AD-4ABD-912D-70013431F0EB}|recetBac\\recetBac.csproj|solutionrelative:recetbac\\recetbac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,70 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NutritionInfoController.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\NutritionInfoController.cs",
-              "RelativeDocumentMoniker": "recetBac\\Controllers\\NutritionInfoController.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Controllers\\NutritionInfoController.cs",
-              "RelativeToolTip": "recetBac\\Controllers\\NutritionInfoController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:52:56.549Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NutritionInfo.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\NutritionInfo.cs",
-              "RelativeDocumentMoniker": "recetBac\\Models\\NutritionInfo.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Models\\NutritionInfo.cs",
-              "RelativeToolTip": "recetBac\\Models\\NutritionInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:54:13.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Program.cs",
-              "RelativeDocumentMoniker": "recetBac\\Program.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Program.cs",
-              "RelativeToolTip": "recetBac\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAmwC4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:04:31.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MelsControllerApi.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\MelsControllerApi.cs",
-              "RelativeDocumentMoniker": "recetBac\\Controllers\\MelsControllerApi.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Controllers\\MelsControllerApi.cs",
-              "RelativeToolTip": "recetBac\\Controllers\\MelsControllerApi.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAUwGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:52:25.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NutritionixController.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\NutritionixController.cs",
-              "RelativeDocumentMoniker": "recetBac\\Controllers\\NutritionixController.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Controllers\\NutritionixController.cs",
-              "RelativeToolTip": "recetBac\\Controllers\\NutritionixController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:01:35.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "recetBac\\Controllers\\UsersController.cs",
@@ -174,7 +111,147 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MealsController.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\MealsController.cs",
+              "RelativeDocumentMoniker": "recetBac\\Controllers\\MealsController.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Controllers\\MealsController.cs",
+              "RelativeToolTip": "recetBac\\Controllers\\MealsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:43:33.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MealService.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Services\\MealService.cs",
+              "RelativeDocumentMoniker": "recetBac\\Services\\MealService.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Services\\MealService.cs",
+              "RelativeToolTip": "recetBac\\Services\\MealService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:42:57.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NutritionixService.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Services\\NutritionixService.cs",
+              "RelativeDocumentMoniker": "recetBac\\Services\\NutritionixService.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Services\\NutritionixService.cs",
+              "RelativeToolTip": "recetBac\\Services\\NutritionixService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:02:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NutritionixNutrientsRequest.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\NutritionixNutrientsRequest.cs",
+              "RelativeDocumentMoniker": "recetBac\\Models\\NutritionixNutrientsRequest.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Models\\NutritionixNutrientsRequest.cs",
+              "RelativeToolTip": "recetBac\\Models\\NutritionixNutrientsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:06:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NutritionixController.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\NutritionixController.cs",
+              "RelativeDocumentMoniker": "recetBac\\Controllers\\NutritionixController.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Controllers\\NutritionixController.cs",
+              "RelativeToolTip": "recetBac\\Controllers\\NutritionixController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:01:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MelsControllerApi.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\MelsControllerApi.cs",
+              "RelativeDocumentMoniker": "recetBac\\Controllers\\MelsControllerApi.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Controllers\\MelsControllerApi.cs",
+              "RelativeToolTip": "recetBac\\Controllers\\MelsControllerApi.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:52:25.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "recetBac.csproj",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\recetBac.csproj",
+              "RelativeDocumentMoniker": "recetBac\\recetBac.csproj",
+              "ToolTip": "C:\\recetBac\\recetBac\\recetBac.csproj",
+              "RelativeToolTip": "recetBac\\recetBac.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T14:02:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\User.cs",
+              "RelativeDocumentMoniker": "recetBac\\Models\\User.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Models\\User.cs",
+              "RelativeToolTip": "recetBac\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:53:20.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Program.cs",
+              "RelativeDocumentMoniker": "recetBac\\Program.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Program.cs",
+              "RelativeToolTip": "recetBac\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:04:31.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NutritionInfo.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\NutritionInfo.cs",
+              "RelativeDocumentMoniker": "recetBac\\Models\\NutritionInfo.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Models\\NutritionInfo.cs",
+              "RelativeToolTip": "recetBac\\Models\\NutritionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:54:13.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NutritionInfoController.cs",
+              "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\NutritionInfoController.cs",
+              "RelativeDocumentMoniker": "recetBac\\Controllers\\NutritionInfoController.cs",
+              "ToolTip": "C:\\recetBac\\recetBac\\Controllers\\NutritionInfoController.cs",
+              "RelativeToolTip": "recetBac\\Controllers\\NutritionInfoController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:52:56.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "recetBac\\Data\\ApplicationDbContext.cs",
@@ -186,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Meal.cs",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\Meal.cs",
               "RelativeDocumentMoniker": "recetBac\\Models\\Meal.cs",
@@ -198,19 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MealsController.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Controllers\\MealsController.cs",
-              "RelativeDocumentMoniker": "recetBac\\Controllers\\MealsController.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Controllers\\MealsController.cs",
-              "RelativeToolTip": "recetBac\\Controllers\\MealsController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:43:33.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "recetBac\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -222,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "20241128162051_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\Migrations\\20241128162051_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "recetBac\\Migrations\\20241128162051_InitialCreate.Designer.cs",
@@ -234,19 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "NutritionixNutrientsRequest.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\NutritionixNutrientsRequest.cs",
-              "RelativeDocumentMoniker": "recetBac\\Models\\NutritionixNutrientsRequest.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Models\\NutritionixNutrientsRequest.cs",
-              "RelativeToolTip": "recetBac\\Models\\NutritionixNutrientsRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:06:56.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "recetBac\\Models\\LoginRequest.cs",
@@ -258,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "NutritionixSearchResult.cs",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\NutritionixSearchResult.cs",
               "RelativeDocumentMoniker": "recetBac\\Models\\NutritionixSearchResult.cs",
@@ -270,19 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\User.cs",
-              "RelativeDocumentMoniker": "recetBac\\Models\\User.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Models\\User.cs",
-              "RelativeToolTip": "recetBac\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:53:20.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\appsettings.json",
               "RelativeDocumentMoniker": "recetBac\\appsettings.json",
@@ -294,31 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "NutritionixService.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Services\\NutritionixService.cs",
-              "RelativeDocumentMoniker": "recetBac\\Services\\NutritionixService.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Services\\NutritionixService.cs",
-              "RelativeToolTip": "recetBac\\Services\\NutritionixService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:02:21.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MealService.cs",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\Services\\MealService.cs",
-              "RelativeDocumentMoniker": "recetBac\\Services\\MealService.cs",
-              "ToolTip": "C:\\recetBac\\recetBac\\Services\\MealService.cs",
-              "RelativeToolTip": "recetBac\\Services\\MealService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T14:42:57.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "NutritionixNutrientsResult.cs",
               "DocumentMoniker": "C:\\recetBac\\recetBac\\Models\\NutritionixNutrientsResult.cs",
               "RelativeDocumentMoniker": "recetBac\\Models\\NutritionixNutrientsResult.cs",
@@ -327,18 +344,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T14:07:22.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "recetBac.csproj",
-              "DocumentMoniker": "C:\\recetBac\\recetBac\\recetBac.csproj",
-              "RelativeDocumentMoniker": "recetBac\\recetBac.csproj",
-              "ToolTip": "C:\\recetBac\\recetBac\\recetBac.csproj",
-              "RelativeToolTip": "recetBac\\recetBac.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-28T14:02:56.676Z"
             }
           ]
         }
